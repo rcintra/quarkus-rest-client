@@ -1,0 +1,8 @@
+GET http://localhost:8080/api/todos/201
+
+###
+GET http://localhost:8080/api/todos/1
+
+###
+# TODOS
+GET http://localhost:8080/api/todos
